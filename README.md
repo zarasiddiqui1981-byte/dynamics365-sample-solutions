@@ -20,7 +20,7 @@ These examples are designed to help businesses and technical teams understand co
 **The Dynamic Netsoft**  
 Specialists in ERP, CRM & Digital Transformation Solutions  
 
-🌐 https://www.dynamicnetsoft.com
+🌐 https://www.dnetsoft.com
 
 We help organizations modernize operations using Microsoft Dynamics 365 and related technologies.
 
